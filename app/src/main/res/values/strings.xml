@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weblance_project</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="zapros_formirovanie">Сформулируйте ваш запрос</string>
+    <string name="enter_email">ВВЕДИТЕ EMAIL</string>
+    <string name="email">email@mail.ru</string>
+    <string name="enter_button_complete">ГОТОВО</string>
+    <string name="enter_you_price">ВВЕДИТЕ СВОЮ ЦЕНУ</string>
+    <string name="price">2000 P</string>
+    <string name="add_image">Добавьте \nизображение </string>
+       
+    <string name="data">For this tutorial, I have downloaded some 50 x 50 pixels icons in PNG format.
+         You can use your own icons if you want. Once your icons are ready, drag the icons from your
+          folder to the project drawable-mdpi directory. Next create a new Java class in your
+           project and named it Weather.java. This class will be used to create a custom ArrayAdapte
+           r and to bind the objects with the ListView later in this tutorial. Following is the code of Weather.
+           java class. It has two simple properties icon and title and a typical class constructor
+           to initialize the properties. </string>
+</resources>
